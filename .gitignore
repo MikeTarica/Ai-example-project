@@ -1,0 +1,16 @@
+# Environments & IDEs
+.venv/
+miniforge3/
+.vscode/
+.ipynb_checkpoints/
+
+# Models & Datasets
+*.pkl
+*.pt
+*.pth
+*.h5
+/datasets/
+/knowledge_base/
+
+# macOS System Files
+.DS_Store
